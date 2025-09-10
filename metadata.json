@@ -1,0 +1,7 @@
+{
+  "name": "RenderForgeArt AI – Creative Suite with Key",
+  "description": "An all-in-one AI-powered creative suite. Generate images, videos, stickers, and flashcards instantly. Then, edit them with powerful AI tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
